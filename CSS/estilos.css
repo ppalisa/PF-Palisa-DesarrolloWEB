@@ -1,0 +1,98 @@
+@media(min-width: 576px){
+    .navbar{
+        height: 10vh;
+    }
+    
+}
+
+.navbar{
+    background-color: #84AEAE !important;
+}
+
+.navbar-brand{
+    color: #1C2022;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.nav-link{
+    color: #1C2022 !important;
+    text-align: center;
+    font-size: large;
+}
+
+.nav-link:hover{
+    color: #F8F8F8 !important;
+}
+
+#title{
+
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+    background-color: #CCCCCC;
+    height: 10vh;
+    padding: 2.5vh;
+    margin-bottom: 0;
+}
+
+.n-left {
+    min-height: 450px;
+    background-image: url(../img/Logo.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.card{
+    background-color: #84AEAE;
+}
+
+.card-text{
+    background-color: #F8F8F8;
+    border: solid;
+    border-color: #1C2022;
+    text-align: start;
+    padding: 10px;
+}
+
+.card-telefono{
+    margin: 5%;
+}
+
+.card-mail{
+    margin: 5%;
+}
+
+.card-link i{
+    color: #1C2022;
+    font-size: xx-large;
+}
+
+
+.card-link label{
+    color: #1C2022;
+    margin-left: 5%;
+    background-color: #F8F8F8;
+    border: solid;
+    border-color: #1C2022;
+    padding: 3px;
+    text-align: center;
+}
+
+footer{
+    background-color: #84AEAE;
+    width: 100% !important;
+    height: 10vh;
+}
+.footer-redes i{
+    color: #1C2022;
+    text-decoration: none !important;
+    font-size: xx-large;
+    padding: 5px;
+}
+
+.footer-right{
+    color: #1C2022;
+    font-size: small;
+}
