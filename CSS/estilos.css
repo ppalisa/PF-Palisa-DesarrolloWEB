@@ -146,7 +146,7 @@ footer{
 }
 
 main{
-    background-image: url(/img/Vela\ estetica.jpg);
+    background-image: url(../img/Vela\ estetica.jpg);
     background-size: cover;
     background-position: center;
 }
