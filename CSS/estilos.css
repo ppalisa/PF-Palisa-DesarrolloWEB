@@ -104,14 +104,63 @@ h3{
 .titulo-productos-index{
     height: 10vh;
     font-size: x-large;
+    margin-bottom: 0;
+    text-align: center;
 }
+
+
+.background-gradient{
+    background-image: linear-gradient(to right bottom, #f6f7f9, #ececee, #e1e1e2, #d7d7d7, #cccccc);
+    margin-top: 0;
+
+}
+
+.carousel-size{
+    min-width: 450px;
+    min-height: 600px;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    
+}
+
+.carousel-inner{
+    border: #84AEAE;
+    border-style: groove;
+}
+
+.slide-tittle{
+    background-color: rgba(22, 72, 104, 0.7);
+    border: 2px  solid #84AEAE;
+    color: #CCCCCC;
+}
+
+/* 
+
+CSS de Productos 
+
+*/
+
+.tittle-productos{
+    margin-bottom: 0;
+}
+
+h2{
+    background-color: #84AEAE;
+height: 10vh;
+padding: 2.5vh;
+margin-top: 0;
+}
+
+.tittle-aromaticas{
+    margin-bottom: 0;
+}
+
 
 .background-productos-index{
     background-image: linear-gradient(to right bottom, #f6f7f9, #ececee, #e1e1e2, #d7d7d7, #cccccc);
 }
 
 .productos-grid{
-    margin-bottom: 100px;
     margin-right: 100px;
     margin-left: 0;
     min-width: 400px;
@@ -127,20 +176,8 @@ h3{
     justify-content: space-between;
 }
 
-/* 
-
-CSS de Productos 
-
-*/
-
-.tittle-productos{
-    margin-bottom: 10px;
-}
-
-.carousel-size{
-    min-width: 450px;
-    min-height: 600px;
-    margin-bottom: 150px;
+.last-grid-productos{
+    margin-bottom: 100px;
 }
 /* 
 
