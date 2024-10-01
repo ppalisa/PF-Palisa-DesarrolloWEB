@@ -90,7 +90,7 @@ h3{
 
 .nosotros{
     color: #ffffff;
-    width: 40%;
+    width: 60%;
     background-color: rgba(22, 72, 104, 0.5);
     border: 5px  solid #84AEAE;
     float: right;
@@ -103,7 +103,7 @@ h3{
 
 .titulo-productos-index{
     height: 10vh;
-    font-size: x-large;
+    font-size: large;
     margin-bottom: 0;
     text-align: center;
 }
@@ -116,7 +116,7 @@ h3{
 }
 
 .carousel-size{
-    min-width: 450px;
+    min-width: 320px;
     min-height: 600px;
     margin-bottom: 100px;
     padding-top: 50px;
