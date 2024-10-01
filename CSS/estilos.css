@@ -2,8 +2,15 @@
     .navbar{
         height: 10vh;
     }
-
 }
+
+/* @media only screen and (min-width: 768px){
+    #carouselExampleDark {
+        width: 600px;
+        height: 600px;
+    
+    }
+} */
 
 .navbar{
     background-color: #84AEAE !important;
@@ -127,9 +134,14 @@ CSS de Productos
 */
 
 .tittle-productos{
-    margin-bottom: 80px;
+    margin-bottom: 10px;
 }
 
+.carousel-size{
+    min-width: 450px;
+    min-height: 600px;
+    margin-bottom: 150px;
+}
 /* 
 
 CSS de Comprar 
