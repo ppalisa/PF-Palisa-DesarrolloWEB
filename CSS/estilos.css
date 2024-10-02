@@ -1,72 +1,63 @@
-@media(min-width: 768px){
-    .navbar{
-        height: 10vh;
-    }
-}
-
-/* @media only screen and (min-width: 768px){
-    #carouselExampleDark {
-        width: 600px;
-        height: 600px;
-    
-    }
-} */
-
-.navbar{
-    background-color: #84AEAE !important;
-    width: auto;
-}
-
-.navbar-brand{
-    color: #1C2022;
-    font-size: xx-large;
-    font-weight: bold;
-}
-
-.nav-link{
-    color: #1C2022 !important;
-    text-align: center;
-    font-size: large;
-}
-
-.nav-link:hover{
-    color: #F8F8F8 !important;
-}
-
-h1{
-    font-size: xx-large;
-    text-align: center;
-    background-color: #CCCCCC;
+@media (min-width: 768px) {
+  .navbar {
     height: 10vh;
-    padding: 2.5vh;
-    margin-bottom: 0;
+  }
+}
+.navbar {
+  background-color: #84AEAE !important;
+  width: auto;
 }
 
-footer{
-    background-color: #84AEAE;
-    width: 100% !important;
-    height: 100px;
+.navbar-brand {
+  color: #1C2022;
+  font-size: xx-large;
+  font-weight: bold;
 }
 
-.footer-redes{
-    margin-left: 5px;
-    font-size: larger;
-    margin-top: 5px;
-    font-weight: bold;
-}
-.footer-redes i{
-    color: #1C2022;
-    text-decoration: none !important;
-    font-size: xx-large;
-    padding: 5px;
-    text-align: left;
-    margin-top: 0;
-
+.nav-link {
+  color: #1C2022 !important;
+  text-align: center;
+  font-size: large;
 }
 
-.footer-right{
-    color: #1C2022;
-    font-size: small;
+.nav-link:hover {
+  color: #F8F8F8 !important;
+}
+
+h1 {
+  font-size: xx-large;
+  text-align: center;
+  background-color: #CCCCCC;
+  height: 10vh;
+  padding: 2.5vh;
+  margin-bottom: 0;
+}
+
+footer {
+  background-color: #84AEAE;
+  width: 100% !important;
+  height: 100px;
+}
+
+.footer-redes {
+  margin-left: 5px;
+  font-size: larger;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.footer-redes i {
+  color: #1C2022;
+  text-decoration: none !important;
+  font-size: xx-large;
+  padding: 5px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.footer-right {
+  color: #1C2022;
+  font-size: small;
 }
 
 /*
@@ -74,64 +65,60 @@ footer{
 CSS del index 
 
 */
-
-main{
-    background-image: url(../img/Velaestetica.jpg);
-    background-size: cover;
-    background-position: center;
-    height: auto;
-    min-height: 900px;
+main {
+  background-image: url(../img/Velaestetica.jpg);
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  min-height: 900px;
 }
 
-h3{
-    color: #000000;
-    margin-bottom: 10px;
+h3 {
+  color: #000000;
+  margin-bottom: 10px;
 }
 
-.nosotros{
-    color: #ffffff;
-    width: 60%;
-    background-color: rgba(22, 72, 104, 0.5);
-    border: 5px  solid #84AEAE;
-    float: right;
-    padding: 15px;
-    margin-top: 60px;
-    margin-right: 20px ;
-    font-size: 20px;
-    margin-bottom: 150px;
+.nosotros {
+  color: #ffffff;
+  width: 60%;
+  background-color: rgba(22, 72, 104, 0.5);
+  border: 5px solid #84AEAE;
+  float: right;
+  padding: 15px;
+  margin-top: 60px;
+  margin-right: 20px;
+  font-size: 20px;
+  margin-bottom: 150px;
 }
 
-.titulo-productos-index{
-    height: 10vh;
-    font-size: large;
-    margin-bottom: 0;
-    text-align: center;
+.titulo-productos-index {
+  height: 10vh;
+  font-size: large;
+  margin-bottom: 0;
+  text-align: center;
 }
 
-
-.background-gradient{
-    background-image: linear-gradient(to right bottom, #f6f7f9, #ececee, #e1e1e2, #d7d7d7, #cccccc);
-    margin-top: 0;
-
+.background-gradient {
+  background-image: linear-gradient(to right bottom, #f6f7f9, #ececee, #e1e1e2, #d7d7d7, #cccccc);
+  margin-top: 0;
 }
 
-.carousel-size{
-    min-width: 320px;
-    min-height: 600px;
-    margin-bottom: 100px;
-    padding-top: 50px;
-    
+.carousel-size {
+  min-width: 320px;
+  min-height: 600px;
+  margin-bottom: 100px;
+  padding-top: 50px;
 }
 
-.carousel-inner{
-    border: #84AEAE;
-    border-style: groove;
+.carousel-inner {
+  border: #84AEAE;
+  border-style: groove;
 }
 
-.slide-tittle{
-    background-color: rgba(22, 72, 104, 0.7);
-    border: 2px  solid #84AEAE;
-    color: #CCCCCC;
+.slide-tittle {
+  background-color: rgba(22, 72, 104, 0.7);
+  border: 2px solid #84AEAE;
+  color: #CCCCCC;
 }
 
 /* 
@@ -139,98 +126,120 @@ h3{
 CSS de Productos 
 
 */
-
-.tittle-productos{
-    margin-bottom: 0;
+.tittle-productos {
+  margin-bottom: 0;
 }
 
-h2{
-    background-color: #84AEAE;
-height: 10vh;
-padding: 2.5vh;
-margin-top: 0;
+h2 {
+  background-color: #84AEAE;
+  height: 10vh;
+  padding: 2.5vh;
+  margin-top: 0;
 }
 
-.tittle-aromaticas{
-    margin-bottom: 0;
+.tittle-aromaticas {
+  margin-bottom: 0;
 }
 
-
-.background-productos-index{
-    background-image: linear-gradient(to right bottom, #f6f7f9, #ececee, #e1e1e2, #d7d7d7, #cccccc);
+.background-productos-index {
+  background-image: linear-gradient(to right bottom, #f6f7f9, #ececee, #e1e1e2, #d7d7d7, #cccccc);
 }
 
-.productos-grid{
-    margin-right: 100px;
-    margin-left: 0;
-    min-width: 400px;
+.productos-grid {
+  margin-right: 100px;
+  margin-left: 0;
+  min-width: 400px;
 }
 
 .productos .card {
-    height: 100%;
+  height: 100%;
 }
 
 .productos .card-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-.last-grid-productos{
-    margin-bottom: 100px;
+.last-grid-productos {
+  margin-bottom: 100px;
 }
+
+.card-img-top {
+  filter: grayscale(100%);
+}
+
+.card-img-top:hover {
+  filter: grayscale(0%);
+  transition-duration: 1s;
+}
+
+#montreal-spray {
+  filter: grayscale(0%);
+  filter: hue-rotate(150deg);
+}
+
+#montreal-spray:hover {
+  filter: hue-rotate(0deg);
+}
+
+#kenia-spray {
+  filter: grayscale(0%);
+  filter: hue-rotate(150deg);
+}
+
+#kenia-spray:hover {
+  filter: hue-rotate(0deg);
+}
+
 /* 
 
 CSS de Comprar 
 
 */
-
 .n-left {
-    min-height: 800px;
-    background-image: url(../img/Logo.jpeg);
-    background-size: cover;
-    background-position: center;
+  min-height: 800px;
+  background-image: url(../img/Logo.jpeg);
+  background-size: cover;
+  background-position: center;
 }
 
-.card{
-    background-color: #84AEAE;
-    margin-bottom: 20px;
-    margin-left: 100px;
+.card {
+  background-color: #84AEAE;
+  margin-bottom: 20px;
+  margin-left: 100px;
 }
 
-.card-text{
-    background-color: #F8F8F8;
-    border: solid;
-    border-color: #1C2022;
-    text-align: start;
-    padding: 10px;
+.card-text {
+  background-color: #F8F8F8;
+  border: solid;
+  border-color: #1C2022;
+  text-align: start;
+  padding: 10px;
 }
 
-.card-telefono{
-    /* margin: 5%; */
-    margin-bottom: 80px;
-    margin-top: 80px;
+.card-telefono {
+  margin-bottom: 80px;
+  margin-top: 80px;
 }
 
-.card-mail{
-    /* margin: 5%; */
-    margin-bottom: 150px;
+.card-mail {
+  margin-bottom: 150px;
 }
 
-.card-link i{
-    color: #1C2022;
-    font-size: xx-large;
+.card-link i {
+  color: #1C2022;
+  font-size: xx-large;
 }
 
-
-.card-link label{
-    color: #1C2022;
-    margin-left: 5%;
-    background-color: #F8F8F8;
-    border: solid;
-    border-color: #1C2022;
-    padding: 3px;
-    text-align: center;
+.card-link label {
+  color: #1C2022;
+  margin-left: 5%;
+  background-color: #F8F8F8;
+  border: solid;
+  border-color: #1C2022;
+  padding: 3px;
+  text-align: center;
 }
 
 /* 
@@ -238,45 +247,42 @@ CSS de Comprar
 CSS de Contactanos 
 
 */
-
-.ingresa{
-    background-color: #84AEAE;
-    padding: 5px;
-    border-radius: 10px;
-    padding: 5px;
-    
+.ingresa {
+  background-color: #84AEAE;
+  padding: 5px;
+  border-radius: 10px;
+  padding: 5px;
 }
 
-.mensaje{
-    background-color: #84AEAE;
-    padding: 5px;
-    border-radius: 10px;
-    color: black;
-    margin-bottom: 3px;
-    
+.mensaje {
+  background-color: #84AEAE;
+  padding: 5px;
+  border-radius: 10px;
+  color: black;
+  margin-bottom: 3px;
 }
 
-.contactos{
-    margin-top: 10px;
-    border-radius: 10px;
-    padding: 5%;
-    text-align: left;
-    margin-bottom: 100px;
+.contactos {
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 5%;
+  text-align: left;
+  margin-bottom: 100px;
 }
 
-.contactos h5{
-    background-color: #CCCCCC;
-    text-align: center;
-    border-radius: 10px;
-    margin-bottom: 5%;
+.contactos h5 {
+  background-color: #CCCCCC;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 5%;
 }
 
-#seccion1{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    flex-flow: row nowrap;
-    justify-content: space-evenly;
-    align-items: center;
-    align-content: space-evenly;
-}
+#seccion1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: space-evenly;
+}/*# sourceMappingURL=estilos.css.map */
