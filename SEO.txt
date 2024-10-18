@@ -1,4 +1,3 @@
 Se quitaron espacios en HTML
 Se agrego metadatos
 Agregado de etiquetas Section, Aside, Form, etc
-Me falto optimizar imagenes por cuestion de tiempo pero se agregara para el proyecto final
